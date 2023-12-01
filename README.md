@@ -1,4 +1,4 @@
-# React Query - Issues
+# React Query - Issues (curso realizado por Fernando Herrera - Gracias!!!!)
 
 1. Clonar repositorio
 2. Ejecutar ``` yarn install``` o ```npm install```
